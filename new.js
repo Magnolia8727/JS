@@ -12,6 +12,7 @@ var when = employees.includes('Solomon')
 
 const employeess = employees.map( (string) => string.toLowerCase() );
 
+const em = employees.
 
 console.log(employees)
 console.log(when)
@@ -33,6 +34,9 @@ let ppl = [
     {id: '4000' , name: 'NU' , age:13}
 
 ];
+
+
+
 
 
 var price = 14.4;
